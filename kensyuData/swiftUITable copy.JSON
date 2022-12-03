@@ -1,0 +1,15 @@
+{
+    "category":
+    [
+        {"idCategory":"1",
+        "dtTitle":"Cinema"},
+        {"idCategory":"2",
+        "dtTitle":"Bar"},
+        {"idCategory":"5",
+        "dtTitle":"Danse"},
+        {"idCategory":"6",
+        "dtTitle":"Nightlife"},
+        {"idCategory":"10"
+        ,"dtTitle":"Music"}
+    ]
+}
