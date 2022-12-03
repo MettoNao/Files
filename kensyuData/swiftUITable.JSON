@@ -1,15 +1,14 @@
-{
-    "userData": 
-    [{
-        "id" : "0",
+[
+    {
+        "id" : 0,
         "imageURL" : "https://avatars.githubusercontent.com/u/61572900?v=4",
         "title" : "高柳直温",
         "data" : "私がこのアプリの制作者だ"
     },
     {
-        "id" : "1",
+        "id" : 1,
         "imageURL" : "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/77/d9/c3/77d9c3ef-acc0-35a9-f4b7-91b4976eba0e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
         "title" : "nao",
         "data" : "このゲームの制作者も私だ"
-    }]
-}
+    }
+]
