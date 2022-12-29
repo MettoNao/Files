@@ -1,17 +1,26 @@
 [
     {
         "id" : 0,
-        "name" : "TakayanagiNaomasa",
-        "password" : "1101"
+        "userName" : "TakayanagiNaomasa",
+        "date": "2022/12/30",
+        "inTime" : "13:00",
+        "outTime": "22:00",
+        "comment": "Swiftやったよ"
     },
     {
         "id" : 1,
-        "name" : "YamaneYuhi",
-        "password" : "2222"
+        "userName" : "YamaneYuhi",
+        "date": "2022/12/30",
+        "inTime" : "14:00",
+        "outTime": "20:00",
+        "comment": "シフト管理アプリ作ってるよ"
     },
     {
         "id" : 2,
-        "name" : "IchiharaYuma",
-        "password" : "3333"
+        "userName" : "IchiharaYuma",
+        "date":"2022/12/30",
+        "inTime" : "14:00",
+        "outTime":"22:00",
+        "comment":"webAppやったよ"
     }
 ]

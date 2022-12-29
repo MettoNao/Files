@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 0,
+        "name" : "TakayanagiNaomasa",
+        "password" : "1111"
+    },
+    {
+        "id" : 1,
+        "name" : "YamaneYuhi",
+        "password" : "2222"
+    },
+    {
+        "id" : 2,
+        "name" : "IchiharaYuma",
+        "password" : "3333"
+    }
+]
